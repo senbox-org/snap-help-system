@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="eu.esa.snap.netbeans.snap.help.system">
+    <module_version install_time="1683622266301" last="true" origin="installer" specification_version="1.0.0">
+        <file crc="1373068388" name="config/Modules/eu-esa-snap-netbeans-snap-help-system.xml"/>
+        <file crc="399733953" name="modules/eu-esa-snap-netbeans-snap-help-system.jar"/>
+        <file crc="2526228326" name="modules/ext/eu.esa.snap.netbeans.snap-help-system/javax-help/javahelp.jar"/>
+    </module_version>
+</module>

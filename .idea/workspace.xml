@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0675da0-f168-468e-9652-f3368fde0dc9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/AbstractHelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/BrowserDisplayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/BrowserDisplayerBeanInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/CopyLinkLocationAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/HelpAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/HelpConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/HelpCtxProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/HelpSetProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/HelpSetRegistrationProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/HyperlinkEventProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/Installer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/JavaHelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/JavaHelpQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/JavaHelpQuickSearchProviderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/NbDocsStreamHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/api/Help.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/api/HelpSetRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eu/esa/snap/netbeans/javahelp/api/HelpUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/nbm/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/eu.esa.snap.netbeans.javahelp.api.Help" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/org.openide.util.HelpCtx.Displayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/Bundle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/Bundle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/favorites_2_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/help24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/help32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/helpcontext-1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/helpset_1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/helpset_2_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/helpsetref-1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/helpviewer_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/helpviewer_book-closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/helpviewer_book-open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/helpviewer_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/helpviewer_page-setup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/helpviewer_print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/helpviewer_topic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/index_1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/index_2_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/layer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/map_1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/map_2_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/master-help.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/masterHelpMap.jhm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/masterHelpPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/masterHelpSet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/masterHelpToc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/notEnabledModule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/notInstalledModule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/show-help.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/toc_1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eu/esa/snap/netbeans/javahelp/resources/toc_2_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/generated-layer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/namedservices/URLStreamHandler/nbdocs/java.net.URLStreamHandler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/services/eu.esa.snap.netbeans.javahelp.api.Help" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/services/javax.annotation.processing.Processor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/services/org.openide.util.HelpCtx.Displayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/Bundle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/Bundle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/favorites_2_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/help24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/help32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/helpcontext-1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/helpset_1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/helpset_2_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/helpsetref-1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/helpviewer_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/helpviewer_book-closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/helpviewer_book-open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/helpviewer_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/helpviewer_page-setup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/helpviewer_print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/helpviewer_topic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/index_1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/index_2_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/layer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/map_1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/map_2_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/master-help.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/masterHelpMap.jhm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/masterHelpPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/masterHelpSet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/masterHelpToc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/notEnabledModule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/notInstalledModule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/show-help.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/toc_1_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/eu/esa/snap/netbeans/javahelp/resources/toc_2_0.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/nbm/netbeans/extra/config/Modules/eu-esa-snap-netbeans-snap-help-system.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/nbm/netbeans/extra/update_tracking/eu-esa-snap-netbeans-snap-help-system.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/nbm/snap-help-system-1.0.0.nbm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/snap-help-system-1.0.0.nbm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PY7YqXZuEYpwoBSLYidPQxF8zH" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Marco/Projects/IdeaProjects/senbox/snap-help-system",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marco\Projects\IdeaProjects\senbox\snap-help-system" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0675da0-f168-468e-9652-f3368fde0dc9" name="Changes" comment="" />
+      <created>1683622211123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683622211123</updated>
+      <workItem from="1683622212346" duration="690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: false
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Java-Dependencies: Java > 11
+OpenIDE-Module-Layer: eu/esa/snap/netbeans/javahelp/resources/layer.xml
+OpenIDE-Module-Install: eu/esa/snap/netbeans/javahelp/Installer.class
+OpenIDE-Module-Long-Description: <p>Provides the software user manual.
+ </p><p><b>Vendor:</b> Brockmann Consult GmbH</p><p><b>Contact address
+ :</b> Chrysanderstr. 1, 21029 Hamburg (Germany)</p><p><b>Copyrigh
+ t:</b> (C) 2014 by Brockmann Consult GmbH</p><p><b>Vendor:</b> Brockm
+ ann Consult GmbH</p><p><b>License:</b> http://www.gnu.org/licenses/gp
+ l.html</p>
