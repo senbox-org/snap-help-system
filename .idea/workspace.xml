@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0675da0-f168-468e-9652-f3368fde0dc9" name="Changes" comment="initial version 1.0.0">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_05_2023_11_01__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/generated-layer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/generated-layer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nbm/netbeans/extra/update_tracking/eu-esa-snap-netbeans-snap-help-system.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/nbm/netbeans/extra/update_tracking/eu-esa-snap-netbeans-snap-help-system.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nbm/snap-help-system-1.0.0.nbm" beforeDir="false" afterPath="$PROJECT_DIR$/target/nbm/snap-help-system-1.0.0.nbm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/snap-help-system-1.0.0.nbm" beforeDir="false" afterPath="$PROJECT_DIR$/target/snap-help-system-1.0.0.nbm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683622211123</updated>
-      <workItem from="1683622212346" duration="2954000" />
+      <workItem from="1683622212346" duration="3008000" />
     </task>
     <task id="LOCAL-00001" summary="initial version 1.0.0">
       <created>1683623174117</created>
@@ -83,6 +70,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial version 1.0.0" />
