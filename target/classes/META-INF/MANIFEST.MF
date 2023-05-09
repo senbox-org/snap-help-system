@@ -13,7 +13,7 @@ OpenIDE-Module-Long-Description: <p>Provides the software user manual.
  ml</p>
 OpenIDE-Module-Specification-Version: 1.0.0
 OpenIDE-Module-Implementation-Version: 1.0.0
-OpenIDE-Module-Build-Version: 202305090851
+OpenIDE-Module-Build-Version: 202305090906
 OpenIDE-Module: eu.esa.snap.netbeans.snap.help.system
 OpenIDE-Module-Public-Packages: eu.esa.snap.netbeans.javahelp.api.**
 OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
