@@ -1,3 +1,7 @@
+
+[![pipeline status](https://gitlab.com/senbox-org/snap-help-system/badges/master/pipeline.svg)](https://gitlab.com/senbox-org/snap-help-system/-/commits/master)
+[![coverage report](https://gitlab.com/senbox-org/snap-help-system/badges/master/coverage.svg)](https://gitlab.com/senbox-org/snap-help-system/-/commits/master)
+
 # snap-help-system
 The help system for SNAP based on NetBeans
 
