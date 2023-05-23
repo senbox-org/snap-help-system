@@ -1,6 +1,7 @@
 
 [![pipeline status](https://gitlab.com/senbox-org/snap-help-system/badges/master/pipeline.svg)](https://gitlab.com/senbox-org/snap-help-system/-/commits/master)
 [![coverage report](https://gitlab.com/senbox-org/snap-help-system/badges/master/coverage.svg)](https://gitlab.com/senbox-org/snap-help-system/-/commits/master)
+[![Quality Gate Status](https://sonarqube.snap-ci.ovh/api/project_badges/measure?project=eu.esa.snap.netbeans%3Asnap-help-system&metric=alert_status&token=sqb_0cdea5fe313ef7ad167be393fb828795ba6d373b)](https://sonarqube.snap-ci.ovh/dashboard?id=eu.esa.snap.netbeans%3Asnap-help-system)
 
 # snap-help-system
 The help system for SNAP based on NetBeans
