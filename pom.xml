@@ -6,7 +6,7 @@
 
     <groupId>eu.esa.snap.netbeans</groupId>
     <artifactId>snap-help-system</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2</version>
     <packaging>nbm</packaging>
 
     <name>SNAP-NetBeans Help System</name>
@@ -33,6 +33,7 @@
                     <licenseFile>LICENSE.txt</licenseFile>
                     <publicPackages>
                         <publicPackage>eu.esa.snap.netbeans.javahelp.api.*</publicPackage>
+                        <publicPackage>javax.help.*</publicPackage>
                     </publicPackages>
                 </configuration>
             </plugin>
