@@ -6,7 +6,7 @@
 
     <groupId>eu.esa.snap.netbeans</groupId>
     <artifactId>snap-help-system</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>nbm</packaging>
 
     <name>SNAP-NetBeans Help System</name>
